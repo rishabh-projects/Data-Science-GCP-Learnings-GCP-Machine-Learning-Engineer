@@ -1,2 +1,2 @@
-# Analytics-Cloud-Native-ML-DL-AWS-Azure-GCP-Google-Cloud-Machine-Learning-Engineer
-Analytics Cloud Native ML DL AWS Azure GCP Google Cloud Machine Learning Engineer
+## Data Science GCP Learnings
+## GCP Machine Learning Engineer
